@@ -1,0 +1,15 @@
+{
+  "name": "mod-9-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "Grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/rwart/mod-9-4.git"
+  },
+  "author": "rwart",
+  "license": "GPL-3.0"
+}
