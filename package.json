@@ -3,17 +3,25 @@
   "version": "1.0.0",
   "description": "",
   "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  },
   "scripts": {
     "test": "Grunt test"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com/rwart/mod-9-4.git"
+    "url": "git+https://github.com/rwart/mod-9-4.git"
   },
   "author": "rwart",
   "license": "GPL-3.0",
-  "devDependencies": {
-    "grunt": "^1.0.1",
-    "grunt-contrib-jshint": "^1.1.0"
-  }
+  "bugs": {
+    "url": "https://github.com/rwart/mod-9-4/issues"
+  },
+  "homepage": "https://github.com/rwart/mod-9-4#readme"
 }
