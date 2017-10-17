@@ -11,5 +11,9 @@
     "url": "git@github.com/rwart/mod-9-4.git"
   },
   "author": "rwart",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
 }
